@@ -14,4 +14,4 @@ Cargo.lock
 *.pdb
 
 # binary files that (rust c ....) command gives
-.exe
+*.exe
